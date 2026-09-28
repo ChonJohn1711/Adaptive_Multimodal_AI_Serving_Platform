@@ -1,0 +1,2 @@
+name: large
+max_batch_size: 8

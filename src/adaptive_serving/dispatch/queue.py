@@ -1,0 +1,2 @@
+class DispatchQueue:
+    pass

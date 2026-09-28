@@ -1,0 +1,2 @@
+service: scheduler
+interval_seconds: 5

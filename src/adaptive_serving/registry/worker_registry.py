@@ -1,0 +1,2 @@
+class WorkerRegistry:
+    pass

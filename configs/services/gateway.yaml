@@ -1,0 +1,2 @@
+service: gateway
+port: 8000

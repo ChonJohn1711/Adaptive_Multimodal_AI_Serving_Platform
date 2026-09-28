@@ -1,0 +1,2 @@
+class AdaptiveServingError(Exception):
+    pass
